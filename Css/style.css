@@ -1,0 +1,40 @@
+body{
+
+}
+
+.navbar {
+	background-color: #000080;
+}
+
+.logo {
+
+padding: 10px;
+
+}
+
+.margin {
+
+padding-top: 10px;
+padding-bottom: 20px;
+
+}
+
+.quem-somos {
+background-image: url(https://www.equatorialenergia.com.br//wp-content/uploads/2019/05/presentation-background.jpg);
+background-position: bottom;
+padding-bottom: 100px;
+padding-top: 100px;
+}
+
+.redes_sociais {
+	background-color: #6A5ACD;
+}
+
+.sites {
+	background-color: #000080;
+	padding-bottom: 50px;
+}
+
+.foot {
+	background-color: black;
+}
